@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1DA762C11E2333E80090C593 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
 		1DE2FCC91E232F350024DA62 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
 		1DE2FCCA1E232F350024DA62 /* hidden.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = hidden.html; sourceTree = "<group>"; };
 		1DE2FCCB1E232F350024DA62 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -29,6 +30,7 @@
 				1DE2FCCE1E232F350024DA62 /* res.html */,
 				1DE2FCCF1E232F350024DA62 /* track3d.html */,
 				1DE2FCD01E232F350024DA62 /* track3d.webgl */,
+				1DA762C11E2333E80090C593 /* img */,
 			);
 			sourceTree = "<group>";
 		};
