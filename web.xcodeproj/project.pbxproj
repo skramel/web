@@ -6,10 +6,29 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		1DE2FCC91E232F350024DA62 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
+		1DE2FCCA1E232F350024DA62 /* hidden.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = hidden.html; sourceTree = "<group>"; };
+		1DE2FCCB1E232F350024DA62 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		1DE2FCCC1E232F350024DA62 /* pub.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = pub.html; sourceTree = "<group>"; };
+		1DE2FCCD1E232F350024DA62 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		1DE2FCCE1E232F350024DA62 /* res.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = res.html; sourceTree = "<group>"; };
+		1DE2FCCF1E232F350024DA62 /* track3d.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = track3d.html; sourceTree = "<group>"; };
+		1DE2FCD01E232F350024DA62 /* track3d.webgl */ = {isa = PBXFileReference; lastKnownFileType = text; path = track3d.webgl; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		1DE2FCC21E232E360024DA62 = {
 			isa = PBXGroup;
 			children = (
+				1DE2FCC91E232F350024DA62 /* about.html */,
+				1DE2FCCA1E232F350024DA62 /* hidden.html */,
+				1DE2FCCB1E232F350024DA62 /* index.html */,
+				1DE2FCCC1E232F350024DA62 /* pub.html */,
+				1DE2FCCD1E232F350024DA62 /* README.md */,
+				1DE2FCCE1E232F350024DA62 /* res.html */,
+				1DE2FCCF1E232F350024DA62 /* track3d.html */,
+				1DE2FCD01E232F350024DA62 /* track3d.webgl */,
 			);
 			sourceTree = "<group>";
 		};
