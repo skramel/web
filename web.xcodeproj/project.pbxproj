@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1D045C761E2DE2F20061A9B1 /* skramel.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = skramel.css; sourceTree = "<group>"; };
 		1DA762C11E2333E80090C593 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
 		1DE2FCC91E232F350024DA62 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
 		1DE2FCCA1E232F350024DA62 /* hidden.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = hidden.html; sourceTree = "<group>"; };
@@ -25,6 +26,7 @@
 				1DE2FCC91E232F350024DA62 /* about.html */,
 				1DE2FCCA1E232F350024DA62 /* hidden.html */,
 				1DE2FCCB1E232F350024DA62 /* index.html */,
+				1D045C761E2DE2F20061A9B1 /* skramel.css */,
 				1DE2FCCC1E232F350024DA62 /* pub.html */,
 				1DE2FCCD1E232F350024DA62 /* README.md */,
 				1DE2FCCE1E232F350024DA62 /* res.html */,
