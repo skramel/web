@@ -1,4 +1,20 @@
-<html><head></head><body onload='loadStaticScene();' style='margin: 0px; padding: 0px; position: absolute; overflow: hidden; top:0px; left:0px;'><div id='container' onclick='consumeEvent(event);' style='margin: 0px; padding: 0px; position: absolute; overflow: hidden; top:0px; left:0px;'></div></body>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+            <meta name="description" content="Homepage of Stefan Kramel, Fluid Dynamics and Turbulence Lab at Wesleyan University" />
+            <meta name="keywords" content="Stefan Kramel, Research, Scientist, Fluid Dynamics, Turbulence, Wesleyan University, Particle Tracking" />
+            <meta name="author" content="Stefan Kramel" />
+            <link rel="stylesheet" type="text/css" href="skramel.css" media="screen,projection" />
+            <title>Stefan Kramel</title>
+            </head>
+    
+    <body onload='loadStaticScene();' style='margin: 0px; padding: 0px; position: absolute; overflow: hidden; top:0px; left:0px;'>
+        <div id='container' onclick='consumeEvent(event);' style='margin: 0px; padding: 0px; position: absolute; overflow: hidden; top:0px; left:0px;'>
+        </div>
+    </body>
+    
 <script type='text/javascript'> var rendererWebGL = null;function reresize(event){ if (rendererWebGL != null) rendererWebGL.setSize(window.innerWidth, window.innerHeight); }function loadStaticScene(){   var objs=[];  for(i=0; i<object.length; i++){  objs[i] = decode64(object[i]);  }
  object = [];  rendererWebGL = new WebGLRenderer('webglRenderer-1', '');  rendererWebGL.init('', '');  rendererWebGL.bindToElementId('container');  //rendererWebGL.setSize(300,300);
   rendererWebGL.setSize(window.innerWidth, window.innerHeight);  rendererWebGL.start(metadata, objs);  window.onresize = reresize;}
