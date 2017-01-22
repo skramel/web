@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1D1616161E349AAA00FAFD52 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
 		1DA762C11E2333E80090C593 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
-		1DE2FCC91E232F350024DA62 /* about.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = about.html; sourceTree = "<group>"; };
 		1DE2FCCB1E232F350024DA62 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		1DE2FCCC1E232F350024DA62 /* pub.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = pub.html; sourceTree = "<group>"; };
 		1DE2FCCD1E232F350024DA62 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -21,7 +21,7 @@
 		1DE2FCC21E232E360024DA62 = {
 			isa = PBXGroup;
 			children = (
-				1DE2FCC91E232F350024DA62 /* about.html */,
+				1D1616161E349AAA00FAFD52 /* about.html */,
 				1DE2FCCB1E232F350024DA62 /* index.html */,
 				1DE2FCCC1E232F350024DA62 /* pub.html */,
 				1DE2FCCD1E232F350024DA62 /* README.md */,
